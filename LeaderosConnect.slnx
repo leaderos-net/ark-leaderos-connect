@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LeaderosConnect.vcxproj" Id="cceaabbd-7a22-471c-9c83-9dcdf3c2ab4e" />
+</Solution>
