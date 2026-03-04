@@ -1,0 +1,8 @@
+{
+  "WebsiteURL": "https://yourwebsite.com",
+  "APIKey": "YOUR_API_KEY_HERE",
+  "ConnectToken": "YOUR_CONSOLE_TOKEN_HERE",
+  "DebugMode": false,
+  "CheckOnline": true,
+  "FreqMinutes": 2
+}
