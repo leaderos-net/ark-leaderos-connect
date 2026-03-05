@@ -27,7 +27,7 @@ The folder should contain:
 ```
 LeaderosConnect/
 └── config.json
-├── LeaderOSConnect.dll
+├── LeaderosConnect.dll
 └── leaderos_pending.json
 └── PluginInfo.json
 ```
