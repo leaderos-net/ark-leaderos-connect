@@ -1,6 +1,6 @@
 {
   "FullName":"LeaderOS Connect",
   "Description": "Connect your ARK server to LeaderOS, enabling you to execute commands on your server directly from the website.",
-  "Version":1.0,
-  "MinApiVersion":3.54
+  "Version": 1.0,
+  "MinApiVersion": 3.54
 }
